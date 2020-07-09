@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="67742" started-at="2020-07-10T02:21:49 EET" finished-at="2020-07-10T02:22:57 EET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="67742" started-at="2020-07-10T02:21:49 EET" finished-at="2020-07-10T02:22:57 EET">
+      <class name="MyTest">
+        <test-method status="PASS" signature="PrepareTest()[pri:0, instance:MyTest@36b4cef0]" name="PrepareTest" is-config="true" duration-ms="10025" started-at="2020-07-10T02:21:49 EET" finished-at="2020-07-10T02:21:59 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PrepareTest -->
+        <test-method status="PASS" signature="Test1()[pri:1, instance:MyTest@36b4cef0]" name="Test1" duration-ms="9472" started-at="2020-07-10T02:21:59 EET" finished-at="2020-07-10T02:22:09 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="Test2()[pri:2, instance:MyTest@36b4cef0]" name="Test2" duration-ms="9725" started-at="2020-07-10T02:22:09 EET" finished-at="2020-07-10T02:22:18 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="Test3()[pri:3, instance:MyTest@36b4cef0]" name="Test3" duration-ms="27646" started-at="2020-07-10T02:22:18 EET" finished-at="2020-07-10T02:22:46 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method status="PASS" signature="Test4()[pri:4, instance:MyTest@36b4cef0]" name="Test4" duration-ms="5265" started-at="2020-07-10T02:22:46 EET" finished-at="2020-07-10T02:22:51 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test4 -->
+        <test-method status="PASS" signature="Test5()[pri:5, instance:MyTest@36b4cef0]" name="Test5" duration-ms="5061" started-at="2020-07-10T02:22:51 EET" finished-at="2020-07-10T02:22:56 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test5 -->
+        <test-method status="PASS" signature="Close()[pri:0, instance:MyTest@36b4cef0]" name="Close" is-config="true" duration-ms="472" started-at="2020-07-10T02:22:56 EET" finished-at="2020-07-10T02:22:57 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close -->
+      </class> <!-- MyTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
